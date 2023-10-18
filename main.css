@@ -1,0 +1,13 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: black;
+    color: white;
+    
+}
+
+
+div,h3{
+    align-items: center;
+}
